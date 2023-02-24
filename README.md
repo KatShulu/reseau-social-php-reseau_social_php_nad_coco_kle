@@ -35,3 +35,8 @@ Pistes d'amélioration
 * amélioration de l'architecture du site et du CSS
 
 🚀 déployer le site ?
+
+Photos du projet
+---------------
+
+![wall](https://user-images.githubusercontent.com/112544312/221244176-97464937-a806-4b8e-b6c6-66363b8860d3.png)
